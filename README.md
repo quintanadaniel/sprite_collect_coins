@@ -18,7 +18,7 @@ Arcade library
 To install the Arcade library, run:
 
 ```shell
-pip install arcade
+pip install -r requirements.txt
 ```
 
 ### How to Play
